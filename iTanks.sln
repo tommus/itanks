@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTanks", "iTanks\iTanks\iTanks.csproj", "{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "iTanksContent", "iTanks\iTanksContent\iTanksContent.contentproj", "{42E19840-6E79-4890-8BEA-C3EFC501C9F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{01889DEE-323C-4D2D-9FBE-781DCED7C0DD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{42E19840-6E79-4890-8BEA-C3EFC501C9F4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{42E19840-6E79-4890-8BEA-C3EFC501C9F4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
